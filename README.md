@@ -1,6 +1,3 @@
-PoeHud
-======
-
 ### Latest news
 
 <a href=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LPFFQZAANHG9W>Please donate to support the project</a>
