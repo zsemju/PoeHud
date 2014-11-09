@@ -3,9 +3,9 @@ PoeHud
 
 ### Latest news
 
-The donation link is: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LPFFQZAANHG9W
+<a href=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LPFFQZAANHG9W>Please donate to support the project</a>
 
-Source code is no longer avaliable. This was made mainly to prevent develpoment 3rd party products (bots, autoflaskers, etc.) based on data being discovered during analysis of Path of Exile binaries, that takes a lot of time.
+Source code is no longer avaliable. This was made mainly to prevent develpoment 3rd party products (bots, autoflaskers, etc.) based on data discovered by me during analysis of Path of Exile binaries.
 
 ### Requirements
 * .NET framerwork v.4 or newer (you already have it on Windows 8+, otherwise here's your dowload link)
