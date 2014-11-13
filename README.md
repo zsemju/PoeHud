@@ -1,7 +1,5 @@
 ### Latest news
 
-<a href=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LPFFQZAANHG9W>Please donate to support the project</a>
-
 Source code is no longer avaliable. This was made mainly to restrain development of 3rd party products (bots, autoflaskers, etc.) based on offsets discovered during analysis of Path of Exile binaries. The analysis takes a lot of time, and giving away its results for all no longer suits me.
 
 ### Requirements
